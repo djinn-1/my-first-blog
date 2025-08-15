@@ -68,3 +68,31 @@ h4 {
     color: #FFFFFF;
     background-color: #C25100;
 }
+
+#logout,
+#logout-form {
+    font-family: 'Lobster', cursive;
+    position: absolute;
+    top: 20px;
+    right: 40px;
+    color: #ffffff;
+    font-size: 15pt;
+}
+
+#logout:hover,
+#logout-form:hover {
+    color: #ffffff;
+
+}
+
+small a,
+small a:hover,
+small a:visited {
+    font-size: 15pt;
+    color: #ffffff;
+    text-decoration: none;
+}
+#logout:visited {
+    color: #ffffff;
+    font-size: 15pt;
+}   
